@@ -1,7 +1,7 @@
 ---
 driver:
   name: lxd
-  ssh_key: /home/bxraabe/.ssh/braabe.telmate.com
+  ssh_key: /home/brandocorp/id_rsa
 
 provisioner:
   name: chef_zero
